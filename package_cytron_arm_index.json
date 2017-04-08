@@ -14,10 +14,10 @@
           "architecture": "arm",
           "version": "1.0.1",
           "category": "Cytron Technologies",
-          "url": "https://raw.githubusercontent.com/Alexia/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.bz2",
-          "archiveFileName": "cytron-arm.tar.bz2",
-          "checksum": "SHA-256:B21DFE2EDBCD87E0C9CCCA5D0326F273834D3FDD724C25E1FDB01F300166CE02",
-          "size": "2715643",
+          "url": "https://raw.githubusercontent.com/Alexia/Cytron-ARM-Arduino-URL/master/cytron-arm.tar.gz",
+          "archiveFileName": "cytron-arm.tar.gz",
+          "checksum": "SHA-256:88fce5130c01024f82fb820667c4c41aa33a95086a9e314a21449351ffa2bcb0",
+          "size": "3647832",
           "help": {
             "online": "http://forum.cytron.com.my/"
           },
